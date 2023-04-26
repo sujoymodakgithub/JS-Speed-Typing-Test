@@ -1,0 +1,38 @@
+.container {
+  background-color: #dac0ff;
+  height: auto;
+}
+
+.cardContainer {
+  background-color: #f3eaff;
+  height: auto;
+  width: auto;
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px solid #9aa5b1;
+}
+
+h1 {
+  color: #690cb0;
+}
+
+#submitBtn {
+  background-color: #690cb0;
+  color: white;
+}
+
+#resetBtn {
+  background-color: #f2ebf3;
+}
+
+img {
+  height: 60px;
+}
+
+span {
+  font-size: 16px;
+}
+
+#timer {
+  font-size: 40px;
+}
